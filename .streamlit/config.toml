@@ -5,12 +5,12 @@
 primaryColor = "#03C988" # black text
 
 # Background color for the main container.
-backgroundColor = "#000000" # white backround
+backgroundColor = "#000000" # Black backround
 
 
 # Used as the background for most widgets. Examples of widgets with this background are st.sidebar,
 # st.text_input, st.date_input.
-secondaryBackgroundColor =  "#69645f" # dark gray
+#secondaryBackgroundColor =  "#69645f" # dark gray
 
 # Font color for the page.
 #textColor =  "#0a0a0a" # black
