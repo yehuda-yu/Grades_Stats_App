@@ -7,14 +7,12 @@ primaryColor = "#03C988" # black text
 # Background color for the main container.
 backgroundColor = "#000000" # Black backround
 
-
 # Used as the background for most widgets. Examples of widgets with this background are st.sidebar,
 # st.text_input, st.date_input.
-#secondaryBackgroundColor =  "#69645f" # dark gray
+#secondaryBackgroundColor =  "#000000" # black
 
 # Font color for the page.
-#textColor =  "#0a0a0a" # black
-#textColor = "#49c5b6" # cyan
+#textColor =  "	#FFFFFF" # white
 
 # Font family (serif | sans serif | mono) for the page. Will not impact code areas.
 # Default: "sans serif"
