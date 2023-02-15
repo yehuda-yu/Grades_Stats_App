@@ -12,7 +12,7 @@ backgroundColor = "#000000" # Black backround
 #secondaryBackgroundColor =  "#000000" # black
 
 # Font color for the page.
-textColor =  "	#FFFFFF" # white
+textColor =  "	#F7F7F7" # white
 
 # Font family (serif | sans serif | mono) for the page. Will not impact code areas.
 # Default: "sans serif"
